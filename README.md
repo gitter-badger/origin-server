@@ -1,5 +1,6 @@
 OpenShift Origin - Platform as a Service
 ========================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nak3/origin-server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repository contains the core components of the OpenShift service
 released under the [OpenShift Origin source
